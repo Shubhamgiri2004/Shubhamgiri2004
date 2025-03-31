@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Building BRAINLY<br>I'm interested in developing web<br>Currently Learning WebSocket's for Streaming Video player<br>Looking to Collaborate. You can reach me shubhamgiriofficial07@gmail.cm 
+I'm currently Building BRAINLY<br>I'm interested in developing web<br>Currently Learning WebSocket's for Streaming Video player<br>Looking to Collaborate. You can reach me shubhamgiriofficial07@gmail.cm 
 
 
 ## 🌐 Socials:
